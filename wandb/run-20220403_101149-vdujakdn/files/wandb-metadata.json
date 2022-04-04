@@ -1,0 +1,37 @@
+{
+    "os": "Linux-4.15.0-112-generic-x86_64-with-glibc2.27",
+    "python": "3.8.0",
+    "heartbeatAt": "2022-04-03T10:11:52.014493",
+    "startedAt": "2022-04-03T10:11:49.397842",
+    "docker": null,
+    "gpu": "GeForce RTX 2080 Ti",
+    "gpu_count": 4,
+    "cpu_count": 48,
+    "cuda": "10.2.89",
+    "args": [
+        "--epoch",
+        "15",
+        "--batch_size",
+        "8",
+        "--nb_classes",
+        "20",
+        "--data_path",
+        "/home/anhducnguyen/pascal_2007",
+        "--train_csv_path",
+        "/home/anhducnguyen/pascal_2007/multihot_train.csv",
+        "--test_csv_path",
+        "/home/anhducnguyen/pascal_2007/multihot_test.csv"
+    ],
+    "state": "running",
+    "program": "main.py",
+    "codePath": "main.py",
+    "git": {
+        "remote": "git@github.com:aengusng8/DummyConvNext.git",
+        "commit": "178792b3a8b6fe313ac6be2a758457fc90fcd0e8"
+    },
+    "email": "aengus.ng8@gmail.com",
+    "root": "/home/anhducnguyen/Dummy_ConvNext",
+    "host": "labserver",
+    "username": "anhducnguyen",
+    "executable": "/home/anhducnguyen/ducanh_venv/bin/python3"
+}

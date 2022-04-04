@@ -1,0 +1,576 @@
+
+
+
+Epoch 0:  43%|██████████████████████████████████████████████████████                                                                        | 78/182 [00:22<00:29,  3.47it/s, loss=0.693, v_num=z483, loss_step=0.693]
+
+
+
+
+
+
+Validating:  88%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                    | 91/104 [00:11<00:01, 10.17it/s]
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+
+
+
+
+
+
+
+
+Epoch 1:  43%|█████████████████████████████████                                            | 78/182 [00:18<00:24,  4.31it/s, loss=0.693, v_num=z483, loss_step=0.693, val_loss=0.670, val_acc=0.880, loss_epoch=0.643]
+
+
+
+
+
+
+
+
+Epoch 2:   3%|██▏                                                                           | 5/182 [00:02<01:36,  1.83it/s, loss=0.693, v_num=z483, loss_step=0.693, val_loss=0.675, val_acc=0.878, loss_epoch=0.648]
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+
+
+
+
+
+
+
+Epoch 2:  43%|█████████████████████████████████                                            | 78/182 [00:18<00:24,  4.23it/s, loss=0.693, v_num=z483, loss_step=0.693, val_loss=0.675, val_acc=0.878, loss_epoch=0.648]
+
+
+
+
+
+
+
+Validating:  98%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊   | 102/104 [00:12<00:00, 10.43it/s]
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+
+
+
+
+
+
+
+
+Epoch 3:  43%|█████████████████████████████████                                            | 78/182 [00:18<00:24,  4.19it/s, loss=0.693, v_num=z483, loss_step=0.693, val_loss=0.661, val_acc=0.890, loss_epoch=0.632]
+
+
+
+
+
+
+
+Epoch 4:   0%|                                                                                      | 0/182 [00:00<?, ?it/s, loss=0.693, v_num=z483, loss_step=0.693, val_loss=0.654, val_acc=0.871, loss_epoch=0.652]
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+
+
+
+
+
+
+
+
+Epoch 4:  43%|█████████████████████████████████                                            | 78/182 [00:18<00:24,  4.28it/s, loss=0.693, v_num=z483, loss_step=0.693, val_loss=0.654, val_acc=0.871, loss_epoch=0.652]
+
+
+
+
+
+
+
+Epoch 5:   1%|▍                                                                             | 1/182 [00:01<05:50,  1.94s/it, loss=0.693, v_num=z483, loss_step=0.693, val_loss=0.664, val_acc=0.872, loss_epoch=0.641]
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+
+
+
+
+
+
+
+
+Epoch 5:  43%|█████████████████████████████████                                            | 78/182 [00:18<00:24,  4.17it/s, loss=0.693, v_num=z483, loss_step=0.693, val_loss=0.664, val_acc=0.872, loss_epoch=0.641]
+
+
+
+
+
+
+Validating:  86%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                       | 89/104 [00:11<00:01, 10.66it/s]
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+
+
+
+
+
+
+
+
+Epoch 6:  43%|█████████████████████████████████                                            | 78/182 [00:16<00:22,  4.71it/s, loss=0.693, v_num=z483, loss_step=0.693, val_loss=0.663, val_acc=0.877, loss_epoch=0.633]
+
+
+
+
+
+
+
+Epoch 7:   0%|                                                                                      | 0/182 [00:00<?, ?it/s, loss=0.693, v_num=z483, loss_step=0.693, val_loss=0.659, val_acc=0.896, loss_epoch=0.638]
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+
+
+
+
+
+
+
+
+Epoch 7:  43%|█████████████████████████████████                                            | 78/182 [00:18<00:24,  4.21it/s, loss=0.693, v_num=z483, loss_step=0.693, val_loss=0.659, val_acc=0.896, loss_epoch=0.638]
+
+
+
+
+
+
+
+Epoch 8:   0%|                                                                                      | 0/182 [00:00<?, ?it/s, loss=0.693, v_num=z483, loss_step=0.693, val_loss=0.670, val_acc=0.877, loss_epoch=0.647]
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+
+
+
+
+
+
+
+
+Epoch 8:  43%|█████████████████████████████████                                            | 78/182 [00:18<00:25,  4.14it/s, loss=0.693, v_num=z483, loss_step=0.693, val_loss=0.670, val_acc=0.877, loss_epoch=0.647]
+
+
+
+
+
+
+
+Validating:  99%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍ | 103/104 [00:12<00:00, 10.86it/s]
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+
+
+
+
+
+
+
+
+
+Epoch 9:  43%|█████████████████████████████████                                            | 78/182 [00:19<00:25,  4.08it/s, loss=0.693, v_num=z483, loss_step=0.693, val_loss=0.668, val_acc=0.881, loss_epoch=0.624]
+
+
+
+
+
+
+Validating:  94%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌         | 98/104 [00:11<00:00, 10.89it/s]
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+
+
+
+
+
+
+
+
+
+Epoch 10:  43%|████████████████████████████████▌                                           | 78/182 [00:18<00:24,  4.16it/s, loss=0.693, v_num=z483, loss_step=0.693, val_loss=0.652, val_acc=0.881, loss_epoch=0.652]
+
+
+
+
+
+
+Validating:  90%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏               | 94/104 [00:11<00:00, 10.40it/s]
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+
+
+
+
+
+
+
+
+
+Epoch 11:  43%|████████████████████████████████▌                                           | 78/182 [00:18<00:25,  4.16it/s, loss=0.693, v_num=z483, loss_step=0.693, val_loss=0.677, val_acc=0.890, loss_epoch=0.647]
+
+
+
+
+
+
+
+Epoch 12:   0%|                                                                                     | 0/182 [00:00<?, ?it/s, loss=0.693, v_num=z483, loss_step=0.693, val_loss=0.662, val_acc=0.893, loss_epoch=0.647]
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+
+
+
+
+
+
+
+
+Epoch 12:  43%|████████████████████████████████▌                                           | 78/182 [00:19<00:25,  4.08it/s, loss=0.693, v_num=z483, loss_step=0.693, val_loss=0.662, val_acc=0.893, loss_epoch=0.647]
+
+
+
+
+
+
+
+Validating:  95%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████        | 99/104 [00:12<00:00,  8.61it/s]
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+
+
+
+
+
+
+
+
+
+Epoch 13:  43%|████████████████████████████████▌                                           | 78/182 [00:19<00:25,  4.03it/s, loss=0.693, v_num=z483, loss_step=0.693, val_loss=0.661, val_acc=0.890, loss_epoch=0.646]
+
+
+
+
+
+
+Validating:  91%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊              | 95/104 [00:11<00:00, 10.12it/s]
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torchvision/transforms/functional.py:364: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+
+
+
+
+
+
+
+
+Epoch 14:  43%|████████████████████████████████▌                                           | 78/182 [00:19<00:26,  4.00it/s, loss=0.693, v_num=z483, loss_step=0.693, val_loss=0.659, val_acc=0.890, loss_epoch=0.653]
+Validating:   0%|                                                                                                                                                                             | 0/104 [00:00<?, ?it/s]
+Exception ignored in: <function _releaseLock at 0x7fa4270f5a60>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/logging/__init__.py", line 223, in _releaseLock
+    def _releaseLock():
+KeyboardInterrupt:
+Traceback (most recent call last):
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 986, in _try_get_data
+    data = self._data_queue.get(timeout=timeout)
+  File "/usr/lib/python3.8/queue.py", line 178, in get
+    raise Empty
+_queue.Empty
+The above exception was the direct cause of the following exception:
+Traceback (most recent call last):
+  File "main.py", line 127, in <module>
+    main(args)
+  File "main.py", line 123, in main
+    trainer.fit(model, data)
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 740, in fit
+    self._call_and_handle_interrupt(
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 685, in _call_and_handle_interrupt
+    return trainer_fn(*args, **kwargs)
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 777, in _fit_impl
+    self._run(model, ckpt_path=ckpt_path)
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 1199, in _run
+    self._dispatch()
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 1279, in _dispatch
+    self.training_type_plugin.start_training(self)
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/pytorch_lightning/plugins/training_type/training_type_plugin.py", line 202, in start_training
+    self._results = trainer.run_stage()
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 1289, in run_stage
+    return self._run_train()
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/pytorch_lightning/trainer/trainer.py", line 1319, in _run_train
+    self.fit_loop.run()
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/pytorch_lightning/loops/base.py", line 145, in run
+    self.advance(*args, **kwargs)
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/pytorch_lightning/loops/fit_loop.py", line 234, in advance
+    self.epoch_loop.run(data_fetcher)
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/pytorch_lightning/loops/base.py", line 146, in run
+    self.on_advance_end()
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/pytorch_lightning/loops/epoch/training_epoch_loop.py", line 242, in on_advance_end
+    self._run_validation()
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/pytorch_lightning/loops/epoch/training_epoch_loop.py", line 337, in _run_validation
+    self.val_loop.run()
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/pytorch_lightning/loops/base.py", line 145, in run
+    self.advance(*args, **kwargs)
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/pytorch_lightning/loops/dataloader/evaluation_loop.py", line 110, in advance
+    dl_outputs = self.epoch_loop.run(dataloader, dataloader_idx, dl_max_batches, self.num_dataloaders)
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/pytorch_lightning/loops/base.py", line 140, in run
+    self.on_run_start(*args, **kwargs)
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/pytorch_lightning/loops/epoch/evaluation_epoch_loop.py", line 86, in on_run_start
+    self._dataloader_iter = _update_dataloader_iter(data_fetcher, self.batch_progress.current.ready)
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/pytorch_lightning/loops/utilities.py", line 121, in _update_dataloader_iter
+    dataloader_iter = enumerate(data_fetcher, batch_idx)
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/pytorch_lightning/utilities/fetching.py", line 199, in __iter__
+    self.prefetching(self.prefetch_batches)
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/pytorch_lightning/utilities/fetching.py", line 258, in prefetching
+    self._fetch_next_batch()
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/pytorch_lightning/utilities/fetching.py", line 300, in _fetch_next_batch
+    batch = next(self.dataloader_iter)
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 517, in __next__
+    data = self._next_data()
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 1182, in _next_data
+    idx, data = self._get_data()
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 1138, in _get_data
+    success, data = self._try_get_data()
+  File "/home/anhducnguyen/ducanh_venv/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 999, in _try_get_data
+    raise RuntimeError('DataLoader worker (pid(s) {}) exited unexpectedly'.format(pids_str)) from e
+RuntimeError: DataLoader worker (pid(s) 31171, 31207, 31246, 31265, 31296) exited unexpectedly
